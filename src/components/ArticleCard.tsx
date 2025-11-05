@@ -30,7 +30,7 @@ export function ArticleCard({ article, featured = false }: ArticleCardProps) {
           </div>
           <div className="flex flex-col justify-center">
             <Badge className="w-fit mb-3">{article.metadata.category}</Badge>
-            <h2 className="text-3xl font-bold mb-3 group-hover:text-primary transition-colors">
+            <h2 className="text-3xl font-medium font-[Outfit] mb-3 group-hover:text-primary transition-colors">
               {article.metadata.title}
             </h2>
             <p className="text-muted-foreground mb-4 line-clamp-3">

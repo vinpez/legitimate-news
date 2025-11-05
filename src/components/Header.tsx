@@ -8,7 +8,7 @@ export function Header() {
     <header className="border-b bg-background sticky top-0 z-50">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between py-4 border-b">
-          <Link to="/" className="text-3xl font-bold tracking-tight">
+          <Link to="/" className="text-3xl font-bold font-[Ovo] tracking-tight">
             Legitimate News
           </Link>
           <Button variant="ghost" size="icon">
@@ -21,7 +21,7 @@ export function Header() {
             <Link
               key={category}
               to={`/category/${category.toLowerCase()}`}
-              className="text-sm font-medium text-muted-foreground hover:text-foreground whitespace-nowrap transition-colors"
+              className="text-sm font-open text-muted-foreground hover:text-foreground whitespace-nowrap transition-colors"
             >
               {category}
             </Link>
