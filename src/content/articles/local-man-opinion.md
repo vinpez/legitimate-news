@@ -3,7 +3,7 @@ title: "Local Man's Opinion Deemed More Important Than Expert Consensus"
 author: "Jennifer Park"
 date: "2025-11-02"
 category: "Politics"
-featured: true
+featured: false
 image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format&fit=crop"
 excerpt: "Area resident Dave Thompson's uninformed opinion on complex policy matters continues to be given equal weight to decades of research."
 ---

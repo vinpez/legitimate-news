@@ -3,7 +3,7 @@ title: "Millennials Are Killing the Napkin Industry, Say Napkin Industry Leaders
 author: "Rachel Adams"
 date: "2025-10-31"
 category: "Business"
-featured: false
+featured: true
 image: "https://i.postimg.cc/90WgVFS4/Chat-GPT-Image-Nov-6-2025-03-34-47-PM.png"
 excerpt: "Major napkin manufacturers blame younger generation for preferring paper towels and questioning the need for specialized cloth squares."
 ---

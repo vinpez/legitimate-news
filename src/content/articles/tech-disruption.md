@@ -3,7 +3,7 @@ title: "Tech Startup Disrupts Industry by Doing Exactly What Industry Already Do
 author: "Kevin Chang"
 date: "2025-10-29"
 category: "Technology"
-featured: false
+featured: true
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&auto=format&fit=crop"
 excerpt: "Revolutionary new app offers services that have existed for decades, but with a minimalist interface and venture capital funding."
 ---

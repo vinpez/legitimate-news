@@ -3,7 +3,7 @@ title: "Celebrity Reveals Secret to Success: Breathing"
 author: "Amanda Foster"
 date: "2025-10-30"
 category: "Entertainment"
-featured: true
+featured: false
 image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&auto=format&fit=crop"
 excerpt: "A-list actor credits career achievements to revolutionary wellness practice of inhaling and exhaling regularly."
 ---
