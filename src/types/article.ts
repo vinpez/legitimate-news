@@ -20,6 +20,7 @@ export const categories = [
   "Technology",
   "Science",
   "Entertainment",
+  "Lifestyle",
   "Sports"
 ] as const;
 
