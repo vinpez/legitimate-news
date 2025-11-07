@@ -11,7 +11,8 @@ export function ArticleCard({ article, featured = false }: ArticleCardProps) {
   const formattedDate = new Date(article.metadata.date).toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
-    day: 'numeric'
+    day: 'numeric',
+    timeZone: 'UTC',
   });
 
   if (featured) {
