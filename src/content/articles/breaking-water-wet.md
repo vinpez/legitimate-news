@@ -1,7 +1,7 @@
 ---
 title: "Breaking: Scientists Confirm Water Is Wet"
 author: "Dr. Sarah Mitchell"
-date: "2025-11-03"
+date: "2025-10-03"
 category: "Science"
 featured: false
 image: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&auto=format&fit=crop"

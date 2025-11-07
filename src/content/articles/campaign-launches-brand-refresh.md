@@ -1,7 +1,7 @@
 ---
 title: "Campaign Launches Brand Refresh"
 author: "Daphne Boyd"
-date: "2025-11-10"
+date: "2025-10-10"
 category: "Politics"
 featured: false
 image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop"

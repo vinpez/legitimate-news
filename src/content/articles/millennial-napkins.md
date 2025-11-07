@@ -1,7 +1,7 @@
 ---
 title: "Millennials Are Killing the Napkin Industry, Say Napkin Industry Leaders"
 author: "Rachel Adams"
-date: "2025-10-31"
+date: "2025-11-06"
 category: "Business"
 featured: true
 image: "https://i.postimg.cc/90WgVFS4/Chat-GPT-Image-Nov-6-2025-03-34-47-PM.png"

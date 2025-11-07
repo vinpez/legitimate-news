@@ -1,7 +1,7 @@
 ---
 title: "Home Decor Trend Returns Again"
 author: "Tessa Morgan"
-date: "2025-12-08"
+date: "2025-11-07"
 category: "Lifestyle"
 featured: false
 image: "https://images.unsplash.com/photo-1485963631004-f2f00b1d6606?w=800&auto=format&fit=crop"

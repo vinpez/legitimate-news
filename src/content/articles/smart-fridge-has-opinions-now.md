@@ -1,7 +1,7 @@
 ---
 title: "Smart Fridge Has Opinions Now"
 author: "Daphne Boyd"
-date: "2025-11-18"
+date: "2025-11-06"
 category: "Technology"
 featured: false
 image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop"

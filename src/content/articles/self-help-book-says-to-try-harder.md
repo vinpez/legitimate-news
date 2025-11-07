@@ -1,7 +1,7 @@
 ---
 title: "Self Help Book Says To Try Harder"
 author: "Avery Collins"
-date: "2025-12-10"
+date: "2025-11-04"
 category: "Lifestyle"
 featured: false
 image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800&auto=format&fit=crop"

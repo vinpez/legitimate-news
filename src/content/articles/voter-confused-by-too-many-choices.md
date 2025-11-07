@@ -1,7 +1,7 @@
 ---
 title: "Voter Confused By Too Many Choices"
 author: "Elias Ford"
-date: "2025-11-09"
+date: "2025-10-09"
 category: "Politics"
 featured: false
 image: "https://images.unsplash.com/photo-1473654729523-203e25dfda10?w=800&auto=format&fit=crop"

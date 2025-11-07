@@ -1,7 +1,7 @@
 ---
 title: "Crypto Platform Launches New Token"
 author: "Isabella Hart"
-date: "2025-11-19"
+date: "2025-09-19"
 category: "Technology"
 featured: false
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&auto=format&fit=crop"

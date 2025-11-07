@@ -1,7 +1,7 @@
 ---
 title: "New Element Found Kind Of"
 author: "Rachel Donovan"
-date: "2025-11-25"
+date: "2025-11-07"
 category: "Science"
 featured: false
 image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&auto=format&fit=crop"

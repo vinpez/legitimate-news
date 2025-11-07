@@ -1,7 +1,7 @@
 ---
 title: "Stadium Upgrades Concessions"
 author: "Natalie Brooks"
-date: "2025-12-05"
+date: "2025-09-05"
 category: "Sports"
 featured: false
 image: "https://images.unsplash.com/photo-1523755231516-e43fd2e8dca5?w=800&auto=format&fit=crop"

@@ -1,7 +1,7 @@
 ---
 title: "Wellness Guru Sells Air"
 author: "Avery Collins"
-date: "2025-12-07"
+date: "2025-10-27"
 category: "Lifestyle"
 featured: false
 image: "https://images.unsplash.com/photo-1520880867055-1e30d1cb001c?w=800&auto=format&fit=crop"

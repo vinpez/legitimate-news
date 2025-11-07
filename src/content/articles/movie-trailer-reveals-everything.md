@@ -1,7 +1,7 @@
 ---
 title: "Movie Trailer Reveals Everything"
 author: "Marcus Rivera"
-date: "2025-11-30"
+date: "2025-10-30"
 category: "Entertainment"
 featured: false
 image: "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?w=800&auto=format&fit=crop"

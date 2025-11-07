@@ -1,7 +1,7 @@
 ---
 title: "Ai Generated Ai Report"
 author: "Daphne Boyd"
-date: "2025-11-17"
+date: "2025-08-17"
 category: "Technology"
 featured: false
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop"

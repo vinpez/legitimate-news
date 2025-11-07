@@ -3,7 +3,7 @@ title: "Analysts Project Strong Long-Term Leadership Potential From Individual N
 author: "Staff Writer"
 date: "2025-11-08"
 category: "Business"
-featured: true
+featured: false
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&auto=format&fit=crop"
 excerpt: "Market forecasters identify a future entrant into the global economy as a likely driver of innovation, culture, and steady multi-sector growth."
 ---

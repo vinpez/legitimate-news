@@ -1,7 +1,7 @@
 ---
 title: "Ceo Announces Bold Initiative"
 author: "Henry Dalton"
-date: "2025-11-11"
+date: "2025-10-11"
 category: "Business"
 featured: false
 image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop"

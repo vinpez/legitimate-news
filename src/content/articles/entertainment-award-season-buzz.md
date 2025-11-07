@@ -4,7 +4,7 @@ author: "Staff Writer"
 date: "2025-11-08"
 category: "Entertainment"
 featured: true
-image: "https://images.unsplash.com/photo-1512427691650-1f44babd93fb?w=800&auto=format&fit=crop"
+image: "https://i.postimg.cc/yxvCMc2r/Chat-GPT-Image-Nov-7-2025-10-50-07-AM.png"
 excerpt: "Industry watchers quietly predict that a child who has not yet entered the world may eventually dominate red carpets and cultural discourse."
 ---
 

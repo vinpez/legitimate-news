@@ -1,7 +1,7 @@
 ---
 title: "Consultant Recommends Synergy"
 author: "Liam Fletcher"
-date: "2025-11-14"
+date: "2025-10-14"
 category: "Business"
 featured: false
 image: "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=800&auto=format&fit=crop"

@@ -1,7 +1,7 @@
 ---
 title: "Tech Conference Panel Agrees On Nothing"
 author: "Liam Fletcher"
-date: "2025-11-20"
+date: "2025-10-20"
 category: "Technology"
 featured: false
 image: "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?w=800&auto=format&fit=crop"

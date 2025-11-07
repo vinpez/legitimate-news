@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Has Opinion"
 author: "Noah Whitman"
-date: "2025-11-29"
+date: "2025-09-29"
 category: "Entertainment"
 featured: false
 image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=800&auto=format&fit=crop"

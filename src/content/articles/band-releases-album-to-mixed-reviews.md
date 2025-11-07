@@ -1,7 +1,7 @@
 ---
 title: "Band Releases Album To Mixed Reviews"
 author: "Elena Ruiz"
-date: "2025-11-28"
+date: "2025-09-28"
 category: "Entertainment"
 featured: false
 image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800&auto=format&fit=crop"

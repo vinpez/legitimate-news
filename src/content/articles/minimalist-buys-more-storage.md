@@ -1,7 +1,7 @@
 ---
 title: "Minimalist Buys More Storage"
 author: "Nina Wallace"
-date: "2025-12-06"
+date: "2025-11-06"
 category: "Lifestyle"
 featured: false
 image: "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?w=800&auto=format&fit=crop"

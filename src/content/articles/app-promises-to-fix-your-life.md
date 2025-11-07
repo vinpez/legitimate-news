@@ -1,7 +1,7 @@
 ---
 title: "App Promises To Fix Your Life"
 author: "Caleb Monroe"
-date: "2025-11-16"
+date: "2025-10-16"
 category: "Technology"
 featured: false
 image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=800&auto=format&fit=crop"

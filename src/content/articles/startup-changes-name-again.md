@@ -1,7 +1,7 @@
 ---
 title: "Startup Changes Name Again"
 author: "Adrian Cole"
-date: "2025-11-13"
+date: "2025-09-13"
 category: "Business"
 featured: false
 image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&auto=format&fit=crop"

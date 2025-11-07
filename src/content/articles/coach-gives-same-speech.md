@@ -1,7 +1,7 @@
 ---
 title: "Coach Gives Same Speech"
 author: "Henry Dalton"
-date: "2025-12-02"
+date: "2025-11-02"
 category: "Sports"
 featured: false
 image: "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=800&auto=format&fit=crop"

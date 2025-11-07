@@ -1,7 +1,7 @@
 ---
 title: "Scientists Excited About Tiny Discovery"
 author: "Avery Collins"
-date: "2025-11-22"
+date: "2025-10-22"
 category: "Science"
 featured: false
 image: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&auto=format&fit=crop"

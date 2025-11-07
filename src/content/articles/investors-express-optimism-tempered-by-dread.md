@@ -1,7 +1,7 @@
 ---
 title: "Investors Express Optimism Tempered By Dread"
 author: "Julia Barnes"
-date: "2025-11-15"
+date: "2025-10-15"
 category: "Business"
 featured: false
 image: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=800&auto=format&fit=crop"

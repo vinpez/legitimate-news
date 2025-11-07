@@ -1,7 +1,7 @@
 ---
 title: "Team Loses But Tries Hard"
 author: "Sophie Caldwell"
-date: "2025-12-01"
+date: "2025-09-01"
 category: "Sports"
 featured: false
 image: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?w=800&auto=format&fit=crop"

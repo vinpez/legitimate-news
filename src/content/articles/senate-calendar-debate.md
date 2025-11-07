@@ -1,7 +1,7 @@
 ---
 title: "Senate Calendar Debate"
 author: "Caleb Monroe"
-date: "2025-11-07"
+date: "2025-10-07"
 category: "Politics"
 featured: false
 image: "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?w=800&auto=format&fit=crop"

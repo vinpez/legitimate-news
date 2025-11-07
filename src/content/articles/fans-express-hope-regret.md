@@ -1,7 +1,7 @@
 ---
 title: "Fans Express Hope Regret"
 author: "Chloe Sanders"
-date: "2025-12-04"
+date: "2025-08-04"
 category: "Sports"
 featured: false
 image: "https://images.unsplash.com/photo-1516205651411-aef33a44f7c2?w=800&auto=format&fit=crop"

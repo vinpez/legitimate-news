@@ -1,10 +1,10 @@
 ---
-title: "Future Citizen Expected to Restore Bipartisan Cooperation, Despite Not Yet Being Born"
+title: "Future Citizen Expected to Restore Bipartisan Cooperation"
 author: "Staff Writer"
 date: "2025-11-08"
 category: "Politics"
 featured: true
-image: "https://images.unsplash.com/photo-1565373676728-04d7f72e0fd3?w=800&auto=format&fit=crop"
+image: "https://i.postimg.cc/fWBLn97D/Chat-GPT-Image-Nov-7-2025-10-58-20-AM.png"
 excerpt: "Observers express quiet optimism that a soon-to-arrive individual may eventually reunify the nation's political landscape."
 ---
 
