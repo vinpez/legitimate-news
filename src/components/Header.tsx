@@ -3,13 +3,17 @@ import { categories } from "@/types/article";
 import { Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-export function Header() {
+interface HeaderProps {
+  category?: string;
+}
+
+export function Header({ category }: HeaderProps) {
   return (
     <header className="border-b bg-background sticky top-0 z-50">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between py-4 border-b">
           <Link to="/" className="text-3xl font-bold font-[Ovo] tracking-tight">
-            Legitimate News
+            Legitimate <span className="text-[#d01133]">{category ? `${category} ` : ''}</span>News
           </Link>
           <Button variant="ghost" size="icon">
             <Search className="h-5 w-5" />

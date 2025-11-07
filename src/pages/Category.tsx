@@ -44,7 +44,7 @@ export default function Category() {
 
   return (
     <div className="min-h-screen bg-background">
-      <Header />
+      <Header category={categoryName} />
       <main className="container mx-auto px-4 py-8">
         <Link to="/">
           <Button variant="ghost" className="mb-6">
