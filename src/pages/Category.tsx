@@ -53,7 +53,7 @@ export default function Category() {
           </Button>
         </Link>
 
-        <h1 className="text-4xl font-bold mb-8 border-b pb-4">
+        <h1 className="text-4xl font-semibold font-[Outfit] mb-8 border-b pb-4">
           {categoryName}
         </h1>
 

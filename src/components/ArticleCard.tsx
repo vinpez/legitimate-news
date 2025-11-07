@@ -60,7 +60,7 @@ export function ArticleCard({ article, featured = false }: ArticleCardProps) {
           />
         </div>
         <Badge className="mb-2">{article.metadata.category}</Badge>
-        <h3 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">
+        <h3 className="text-2xl font-medium font-[Outfit] mb-2 group-hover:text-primary transition-colors">
           {article.metadata.title}
         </h3>
         <p className="text-sm text-muted-foreground mb-2 line-clamp-2">

@@ -12,8 +12,12 @@ export function Header({ category }: HeaderProps) {
     <header className="border-b bg-background sticky top-0 z-50">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between py-4 border-b">
-          <Link to="/" className="text-3xl font-bold font-[Ovo] tracking-tight">
-            Legitimate <span className="text-[#d01133]">{category ? `${category} ` : ''}</span>News
+          <Link to="/" className="flex text-3xl font-bold font-[Ovo] tracking-tight">
+            <span className="inline-block">Legitimate&nbsp;</span>
+            <span className={`text-[#d01133] inline-block max-w-[${category ? '200px' : '0px'}] overflow-hidden transition-[max-width] duration-1000 ease-in-out`}>
+              {category ? <span>{category}&nbsp;</span> : ''}
+            </span>
+            <span className="inline-block">News</span>
           </Link>
           <Button variant="ghost" size="icon">
             <Search className="h-5 w-5" />
