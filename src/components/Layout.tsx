@@ -1,14 +1,14 @@
-import { Outlet } from 'react-router-dom';
+import { Outlet, useParams } from 'react-router-dom';
 
 import { Header } from "@/components/Header";
 
-interface LayoutProps {}
-
-export function Layout({ }: LayoutProps) {
-  return (
-    <div>
-      <Header />
-      <Outlet />
-    </div>
-  );
+export function Layout() {
+    const { category } = useParams<{ category: string }>();
+    const categoryName = category?.charAt(0).toUpperCase() + category?.slice(1);
+    return (
+        <div>
+            <Header category={categoryName} />
+            <Outlet />
+        </div>
+    );
 }

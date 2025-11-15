@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Header } from "@/components/Header";
 import { ArticleCard } from "@/components/ArticleCard";
 import { getAllArticles, getFeaturedArticles } from "@/utils/articles";
 import { Article } from "@/types/article";
@@ -27,7 +26,6 @@ export default function Home() {
   if (loading) {
     return (
       <div className="min-h-screen bg-background">
-        <Header />
         <main className="container mx-auto px-4 py-8">
           <div className="space-y-8">
             <Skeleton className="h-96 w-full" />
@@ -44,7 +42,6 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-background">
-      <Header />
       <main className="container mx-auto px-4 py-8">
         {/* Featured Articles */}
         <section className="mb-12">

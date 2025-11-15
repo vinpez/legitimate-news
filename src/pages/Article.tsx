@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import { Header } from "@/components/Header";
 import { getArticleBySlug } from "@/utils/articles";
 import { Article as ArticleType } from "@/types/article";
 import ReactMarkdown from "react-markdown";
@@ -29,7 +28,6 @@ export default function Article() {
   if (loading) {
     return (
       <div className="min-h-screen bg-background">
-        <Header />
         <main className="container mx-auto px-4 py-8">
           <Skeleton className="h-8 w-32 mb-6" />
           <Skeleton className="h-12 w-3/4 mb-4" />
@@ -48,7 +46,6 @@ export default function Article() {
   if (!article) {
     return (
       <div className="min-h-screen bg-background">
-        <Header />
         <main className="container mx-auto px-4 py-8">
           <div className="text-center">
             <h1 className="text-4xl font-bold mb-4">Article Not Found</h1>
@@ -72,7 +69,6 @@ export default function Article() {
 
   return (
     <div className="min-h-screen bg-background">
-      <Header />
       <main className="container mx-auto px-4 py-8 max-w-4xl">
         <Link to="/">
           <Button variant="ghost" className="mb-6">
