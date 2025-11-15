@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import { Header } from "@/components/Header";
 import { ArticleCard } from "@/components/ArticleCard";
 import { getArticlesByCategory } from "@/utils/articles";
 import { Article } from "@/types/article";
@@ -29,7 +28,6 @@ export default function Category() {
   if (loading) {
     return (
       <div className="min-h-screen bg-background">
-        <Header />
         <main className="container mx-auto px-4 py-8">
           <Skeleton className="h-8 w-32 mb-6" />
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -44,7 +42,6 @@ export default function Category() {
 
   return (
     <div className="min-h-screen bg-background">
-      <Header category={categoryName} />
       <main className="container mx-auto px-4 py-8">
         <Link to="/">
           <Button variant="ghost" className="mb-6">
