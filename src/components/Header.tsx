@@ -14,7 +14,7 @@ export function Header({ category }: HeaderProps) {
         <div className="flex items-center justify-between py-4 border-b">
           <Link to="/" className="flex text-3xl font-bold font-[Ovo] tracking-tight">
             <span className="inline-block">Legitimate&nbsp;</span>
-            <span className={`inline-block text-[#d01133] w-fit ${category ? 'max-w-[100%]' : 'max-w-[0px]'} overflow-hidden transition-all duration-700`}>
+            <span className={`inline-block text-[#d01133] ${category ? 'max-w-[100%]' : 'max-w-[0px]'} overflow-hidden transition-all duration-700 ease-in-out`}>
               {category ? <span>{category}&nbsp;</span> : <span></span>}
             </span>
             <span className="inline-block">News</span>
